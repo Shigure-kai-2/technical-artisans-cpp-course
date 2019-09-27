@@ -1,1 +1,5 @@
 1. [Introduction](1.md)
+2. [Variable & Expressions](2.md)
+3. [Conditional Statements](3.md)
+4. [Loops](4.md)
+5. [Functions](5.md)
